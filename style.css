@@ -2,15 +2,11 @@ html {
 	background-color: black;
 }
 
-#pic { 
-	margin: 0 185px;
-	
-}
+
 ul {
 	color: white;
 	list-style-type: none;
 	margin: 0;
-	display: center;
 }
 ul li {
 	display: block;
