@@ -1,17 +1,40 @@
+.page-header{
+	background-color: black;
+	margin-top: 0;
+	padding-top: 0;
+	/* border: */
+	
+}
+
 h5{
 	font-family: 'Nunito', sans-serif; 
 	font-size: 1.2em;
 	font-weight: 400;
+	color: white;
+	padding-top: 10px;
 }
-.jumbotron{
+.jumbotron {
 	background-color: black; 
 	color: white;
 	font-family: 'Radley', sans-serif;
-
-
+	text-align: center 
+	
+	
+}
+.jumbotron img{
+	float: left;
+	
+}
 
 img{
-	margin-bottom:10px;
 	border-radius: 4%;
 	
+}
+.nav{
+	margin-top: 30px;
+}
+
+
+html{
+	background-color: lightgray;
 }
