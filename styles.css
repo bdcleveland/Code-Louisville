@@ -1,11 +1,15 @@
 .page-header{
-	background-color: black;
+	background-color: gray;
 	margin-top: 0;
 	padding-top: 0;
 	/* border: */
 	
 }
-
+p{
+	margin-bottom:0;
+	background-color: black;
+	color:black;
+}
 h5{
 	font-family: 'Nunito', sans-serif; 
 	font-size: 1.2em;
@@ -28,13 +32,25 @@ h5{
 
 img{
 	border-radius: 4%;
-	
+	opacity: 0.8;
 }
 .nav{
 	margin-top: 30px;
 }
+ 
+#detail{
+	float: right;
+	background-color: lightgray;
+	
+}
 
-
+#detail li{
+	float: right;
+	margin-right: 30px;
+	margin-top: 50px;
+	list-style: none;
+	display: inline;
+}
 html{
 	background-color: lightgray;
 }
