@@ -1,8 +1,46 @@
-.page-header{
+.navbar-brand{
+	padding-top: 1px;
+	opacity: 0.6;
+}
+
+
+.row{
+	padding-top: 70px;
+	margin-right: 110px;
+}
+h1{
+	font-family: 'Radley', sans-serif;
+}
+h2{
+	font-family: 'Sorts Mill Goudy', sams-serif;
+}
+h3{
+	font-family: 'Exo 2', sans-serif;
+}
+#phone{
+	margin-top: 17px;
+	margin-left: 45px;
+	padding-bottom: 20px;
+}
+#mail{
+	margin-top:10px;
+	margin-left: 70px;
+}
+#mailImg{
+	margin-top:10px;
+}
+
+.well{
+	margin-left: 50px;
+	margin-top: 20px;
+	
+}
+/*.page-header{
 	background-color: gray;
 	margin-top: 0;
 	padding-top: 0;
-	/* border: */
+	
+	text-align: center;
 	
 }
 p{
@@ -41,6 +79,7 @@ img{
 #detail{
 	float: right;
 	background-color: lightgray;
+
 	
 }
 
