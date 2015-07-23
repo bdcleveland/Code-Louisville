@@ -1,16 +1,19 @@
+
 .navbar-brand{
 	padding-top: 1px;
-	opacity: 0.6;
-	
+	opacity: 0.8;
 }
 img{
 	border-radius: 15px;
 }
-
-.row{
-	padding-top: 70px;
-	margin-right: 110px;
+#cent{
+	background-color: lightgray;
+	padding: 5px 10px;
 }
+.row{
+	padding-top: 52px;	
+}
+
 h1{
 	font-family: 'Radley', sans-serif;
 }
@@ -25,6 +28,7 @@ h3{
 	margin-left: 45px;
 	padding-bottom: 20px;
 }
+
 #mail{
 	margin-top:10px;
 	margin-left: 70px;
@@ -44,81 +48,7 @@ h3{
 
 
 $('#myCarousel').carousel({
-  interval: 3000,
+  interval: 1000,
   cycle: true
 }); 
-
-p1{
-	margin-right: 400px;
-}
-
-footer{
-	border-radius: 10px;
-	background-color: lightgray;
-	max-height: 70px;
-	margin-top:50px;
-}
-footer p{
-	margin-bottom: 20px;
-}
-
-
-/*.page-header{
-	background-color: gray;
-	margin-top: 0;
-	padding-top: 0;
-	
-	text-align: center;
-	
-}
-p{
-	margin-bottom:0;
-	background-color: black;
-	color:black;
-}
-h5{
-	font-family: 'Nunito', sans-serif; 
-	font-size: 1.2em;
-	font-weight: 400;
-	color: white;
-	padding-top: 10px;
-}
-.jumbotron {
-	background-color: black; 
-	color: white;
-	font-family: 'Radley', sans-serif;
-	text-align: center 
-	
-	
-}
-.jumbotron img{
-	float: left;
-	
-}
-
-img{
-	border-radius: 4%;
-	opacity: 0.8;
-}
-.nav{
-	margin-top: 30px;
-}
- 
-#detail{
-	float: right;
-	background-color: lightgray;
-
-	
-}
-
-#detail li{
-	float: right;
-	margin-right: 30px;
-	margin-top: 50px;
-	list-style: none;
-	display: inline;
-}
-html{
-	background-color: lightgray;
-}
 
