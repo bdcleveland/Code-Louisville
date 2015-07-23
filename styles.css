@@ -1,6 +1,7 @@
 .navbar-brand{
 	padding-top: 1px;
 	opacity: 0.6;
+	
 }
 img{
 	border-radius: 15px;
@@ -46,6 +47,22 @@ $('#myCarousel').carousel({
   interval: 3000,
   cycle: true
 }); 
+
+p1{
+	margin-right: 400px;
+}
+
+footer{
+	border-radius: 10px;
+	background-color: lightgray;
+	max-height: 70px;
+	margin-top:50px;
+}
+footer p{
+	margin-bottom: 20px;
+}
+
+
 /*.page-header{
 	background-color: gray;
 	margin-top: 0;
