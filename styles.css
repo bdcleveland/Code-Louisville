@@ -28,7 +28,9 @@ h3{
 	margin-left: 45px;
 	padding-bottom: 20px;
 }
-
+.jumbotron img{
+	opacity: 0.6;
+}
 #mail{
 	margin-top:10px;
 	margin-left: 70px;
